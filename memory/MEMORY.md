@@ -1,0 +1,6 @@
+- [User profile](user_profile.md) — Archis Gore: security researcher, author of the Encrypted Execution paper / PHP scrambler / Polyverse
+- [Active project: encrypted-linux](project_encrypted_linux.md) — scrambling-GCC Linux distro; research dossiers in github.com/encrypted-execution/encrypted-linux
+- [encrypted-linux session state (mid-build)](project_encrypted_linux_state.md) — 2026-05-11 PM: image built, not yet booted; resume with `bash scripts/run-qemu.sh`
+- [Encrypted Execution stack reference](reference_encrypted_execution.md) — pointers to paper, PHP scrambler repos, polyscripted-wordpress
+- [Capture permissions periodically](feedback_permission_capture.md) — add Bash(...) entries to ~/.claude/settings.json every commit batch, conservatively
+- [encrypted-linux seed-hardening backlog](feedback_seed_hardening_backlog.md) — defer until other work done; see plan/06
